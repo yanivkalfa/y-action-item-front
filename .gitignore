@@ -1,0 +1,16 @@
+### Node
+/node/**
+**/node_modules/**
+**/bower_components/**
+
+### OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+.svn
+._*
+.Spotlight-V100
+.Trashes
+
+dist
+/dist
